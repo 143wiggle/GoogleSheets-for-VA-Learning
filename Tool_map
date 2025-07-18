@@ -1,50 +1,48 @@
-# GoogleSheets-for-VA-Learning
-
 GoogleSheets-for-VA-Learning/
 │
 ├── level_0_introduction/
 │   ├── 00-why-google-sheets-for-va.md
-│   └── 01-setup-google-sheets.md
+│   └── 01-setup-google-sheets-account.md
 │
 ├── level_1_basic_usage/
-│   ├── 02-create-new-sheet.md
-│   ├── 03-basic-cell-editing.md
-│   ├── 04-insert-delete-rows-columns.md
-│   ├── 05-basic-formatting.md
-│   ├── 06-merge-cells-and-wrap-text.md
+│   ├── 02-create-spreadsheet-and-tabs.md
+│   ├── 03-enter-and-edit-data.md
+│   ├── 04-format-columns-and-rows.md
+│   ├── 05-wrap-text-and-align.md
+│   ├── 06-rename-and-organize-sheets.md
 │
-├── level_2-data-entry/
-│   ├── 07-sort-and-filter.md
-│   ├── 08-data-validation.md
-│   ├── 09-drop-down-menus.md
-│   ├── 10-checkboxes-for-task-tracking.md
-│   └── 11-duplicate-sheets-and-tabs.md
+├── level_2-data-entry-functions/
+│   ├── 07-use-drop-downs.md
+│   ├── 08-insert-checkboxes.md
+│   ├── 09-auto-fill-series.md
+│   ├── 10-date-and-time-stamping.md
+│   └── 11-basic-formulas-for-entry (SUM, COUNT).md
 │
-├── level_3-formulas-and-functions/
-│   ├── 12-basic-formulas-add-subtract.md
-│   ├── 13-AVERAGE-MIN-MAX.md
-│   ├── 14-COUNT-and-COUNTA.md
-│   ├── 15-IF-statements.md
-│   └── 16-NESTED-IFs-and-logical-functions.md
+├── level_3-va-task-tracking/
+│   ├── 12-create-simple-to-do-list.md
+│   ├── 13-task-status-and-color-coding.md
+│   ├── 14-daily-progress-table.md
+│   ├── 15-simple-client-log-sheet.md
+│   └── 16-weekly-time-log-template.md
 │
-├── level_4-data-visualization/
-│   ├── 17-insert-basic-charts.md
-│   ├── 18-use-conditional-formatting.md
-│   ├── 19-progress-bars-and-status-colors.md
-│   └── 20-data-cleaning-101.md
+├── level_4-collaboration-and-sharing/
+│   ├── 17-share-sheets-with-clients.md
+│   ├── 18-comment-and-resolve.md
+│   ├── 19-protect-specific-cells.md
+│   └── 20-duplicate-template-for-each-week.md
 │
-├── level_5-va-collaboration-features/
-│   ├── 21-comments-and-suggestions.md
-│   ├── 22-protect-ranges.md
-│   ├── 23-version-history.md
-│   ├── 24-linking-to-other-sheets.md
-│   └── 25-team-tracker-template.md
+├── level_5-integrations-and-automation/
+│   ├── 21-connect-google-forms-to-sheets.md
+│   ├── 22-set-reminder-with-Google-Calendar.md
+│   ├── 23-automate-email-alerts-via-sheets.md
+│   ├── 24-use-apps-script-for-auto-formatting.md
+│   └── 25-use-sheet-template-links-in-GDrive.md
 │
-├── level_6-tool-integrations/
-│   ├── 26-connect-with-google-forms.md
-│   ├── 27-connect-with-google-data-studio.md
-│   ├── 28-integrate-with-zapier.md
-│   ├── 29-auto-email-reports-via-sheets.md
-│   └── 30-embed-sheets-in-websites.md
+├── level_6-client-reporting-skills/
+│   ├── 26-daily-report-sheet-template.md
+│   ├── 27-summary-row-with-formulas.md
+│   ├── 28-export-to-pdf-and-email.md
+│   ├── 29-connect-to-Gmail-for-report-send.md
+│   └── 30-version-history-for-proof.md
 │
 └── roadmap.md
